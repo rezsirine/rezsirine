@@ -12,24 +12,7 @@
 
 <br/>
 
-```python
-class SirineRezgui:
-    def __init__(self):
-        self.role       = ["MSc Advanced Intelligent Systems", "Software Engineering Student"]
-        self.location   = "Tunisia 🇹🇳"
-        self.languages  = ["French", "English", "Deutsch"]
-        self.focus      = ["AI/ML Systems", "Full-Stack Dev", "Predictive Modeling"]
-        self.available  = True  # Open to internship opportunities
 
-    def get_stack(self):
-        return {
-            "AI/ML"     : ["Python", "scikit-learn", "Flan-T5", "HuggingFace", "Pandas"],
-            "Frontend"  : ["React", "Angular", "Next.js", "TypeScript", "Redux"],
-            "Backend"   : ["Spring Boot", "Node.js", "Express", "JWT", "Socket.io"],
-            "Database"  : ["MySQL", "MongoDB", "Firebase", "Sequelize"],
-            "DevOps"    : ["Git", "Agile/Scrum", "Jira", "Cloudinary"],
-        }
-```
 
 ---
 
