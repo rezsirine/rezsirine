@@ -48,66 +48,6 @@
 
 </div>
 
----
-
-## 🧠 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏥 Clinical Decision Support System
-```
-> Multi-agent medical AI platform
-> Symptom extraction → diagnosis + confidence scores
-> Transparent explainability layer
-> Reliable clinical decision support
-```
-`Python` `Multi-Agent` `NLP` `AI`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 Security360 — COFICAB
-```
-> Enterprise security platform
-> 2FA + JWT authentication
-> Chart.js dashboards
-> Spring Boot + Angular
-```
-`Spring Boot` `Angular` `JWT` `2FA`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI Job Offer Predictor
-```
-> Fine-tuned Flan-T5 model
-> Input: job title
-> Output: LinkedIn post
-> Auto-publishes via LinkedIn API
-```
-`Flan-T5` `HuggingFace` `LinkedIn API` `NLP`
-
-</td>
-<td width="50%" valign="top">
-
-### 📉 Student Dropout Prediction
-```
-> ML risk analysis — higher education
-> Random Forest, SVM, ensemble models
-> Feature engineering + EDA
-> Data-driven policy insights
-```
-`Python` `scikit-learn` `Pandas` `ML`
-
-</td>
-</tr>
-</table>
-
----
 
 ## 📊 GitHub Stats
 
@@ -125,21 +65,6 @@
 </div>
 
 ---
-
-## 🎓 Education
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  🏛️  National School of Computer Science                             │
-│      BSc Computer Science                          [2021 – 2024]    │
-├─────────────────────────────────────────────────────────────────────┤
-│  🔬  ISSAT Mateur                                                    │
-│      MSc Advanced Intelligent Systems               [2024 – 2026]   │
-├─────────────────────────────────────────────────────────────────────┤
-│  ⚙️  TEK UP University                                               │
-│      Engineering Cycle — Software Engineering       [2025 – 2027]   │
-└─────────────────────────────────────────────────────────────────────┘
-```
 
 ---
 
