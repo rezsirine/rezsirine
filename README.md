@@ -1,13 +1,16 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&width=500&lines=Hi%2C+I'm+Sirine+%F0%9F%91%8B;Full+Stack+Developer;Web+UI+%26+Front-end+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=7C3AED&background=0D1117&lines=Hi%2C+I'm+Sirine+%F0%9F%91%8B;Full+Stack+Developer;Frontend+Developer;UI%2FUX+Enthusiast;Always+Learning" alt="Typing SVG" />
 
   <h3>💻 Developer • Creative Thinker • Problem Solver</h3>
 
   <p>
-    <img src="https://img.shields.io/badge/Location-Tunis%2C%20Tunisia-0A66C2?style=flat-square&logo=googlemaps&logoColor=white" />
-    <img src="https://img.shields.io/badge/Email-sirine.rezgui%40ensi-uma.tn-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-    <img src="https://img.shields.io/badge/Phone-%2B216%2055%20194%20119-34A853?style=flat-square&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Location-Tunis%2C%20Tunisia-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-sirine.rezgui%40ensi-uma.tn-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Phone-%2B216%2055%20194%20119-34A853?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <a href="https://www.linkedin.com/in/sirine-rezgui" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
   </p>
 
 </div>
@@ -16,25 +19,26 @@
 
 ## 👋 About Me
 
-I’m a passionate developer with a strong interest in building clean, efficient, and user-friendly web experiences.  
-I enjoy turning ideas into functional digital products, learning new technologies, and improving my skills through real-world projects.
+I’m a passionate developer with a strong interest in building clean, modern, and user-friendly digital experiences.  
+I enjoy transforming ideas into useful products, learning new technologies, and improving my skills through real-world development.
 
 I’m especially interested in:
 - Front-end development
-- UI/UX-focused interfaces
+- UI/UX design
 - Modern web technologies
 - Problem solving and project building
+- Creating elegant and functional interfaces
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Core Skills
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks / Tools
+### Frameworks & Tools
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -43,7 +47,7 @@ I’m especially interested in:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rezsirine&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
@@ -62,12 +66,13 @@ I’m especially interested in:
 ## 🚀 Featured Projects
 
 ### RecycleApp-Admin
-A project focused on admin-side app management and dashboard-based interfaces.
+A project focused on admin-side application management and dashboard-oriented interfaces.
 
 - JavaScript
-- HTML/CSS
-- Modern UI structure
-- Project-based learning and web app development
+- HTML / CSS
+- UI structure
+- Web app development
+- Practical project learning
 
 [Repository](https://github.com/Thesis-Project-Avengers/RecycleApp-Admin)
 
@@ -77,31 +82,33 @@ A project focused on admin-side app management and dashboard-based interfaces.
 
 - Advanced JavaScript
 - React ecosystem
-- Better UI/UX patterns
-- Clean code and scalable frontend architecture
+- UI/UX best practices
+- Clean code and scalable front-end architecture
+- Modern app design principles
 
 ---
 
 ## 📫 Contact
 
-Feel free to reach out for:
-- collaboration
-- freelance work
-- web project discussions
-- internships / opportunities
+Let’s connect and build something meaningful together.
 
 - Email: sirine.rezgui@ensi-uma.tn
 - Phone: +216 55 194 119
 - Location: Tunis, Tunisia
-- LinkedIn: www.linkedin.com/in/sirine-rezgui
+- LinkedIn: https://www.linkedin.com/in/sirine-rezgui
 
 <div align="center">
 
   <a href="mailto:sirine.rezgui@ensi-uma.tn">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/rezsirine">
+
+  <a href="https://github.com/rezsirine" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/sirine-rezgui" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
 </div>
