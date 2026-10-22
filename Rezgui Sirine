@@ -1,89 +1,137 @@
+<!-- ============================================================
+  Profile README for github.com/rezsirine
+  Place this file at the root of the repository rezsirine/rezsirine
+  Items marked TODO need your input before publishing.
+============================================================ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:001a0d,100:003320&height=220&section=header&text=Sirine%20Rezgui&fontSize=58&fontColor=00ff88&fontAlignY=40&desc=AI%20Engineer%20%2F%20Software%20Engineering%20Student&descAlignY=60&descSize=15&descColor=00cc66&stroke=00ff88&strokeWidth=1" width="100%"/>
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=800&color=00FF88&center=true&vCenter=true&width=650&lines=_%3E+Initializing+intelligent+systems...;_%3E+MSc+Advanced+Intelligent+Systems+%40+ISSAT+Mateur;_%3E+Engineering+Cycle+%40+TEK+UP+University;_%3E+Building+AI+that+thinks+%2B+software+that+scales;_%3E+Open+to+internships+in+AI+%2F+Risk+Modeling_)](https://git.io/typing-svg)
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0d1117,100:1f6feb&text=Sirine%20Rezgui&fontColor=e6edf3&fontSize=44&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20Development%20%26%20Intelligent%20Systems&descSize=16&descAlignY=60&descColor=8b949e" alt="Sirine Rezgui — Software Engineer, Full-Stack Development and Intelligent Systems" width="100%"/>
 
 <br/>
 
-
-
----
-
-## ⚡ Tech Stack
-
-<div align="center">
-
-### 🤖 AI & Data Science
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=00ff88)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-000?style=for-the-badge&logo=scikit-learn&logoColor=00ff88)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-000?style=for-the-badge&logo=huggingface&logoColor=00ff88)
-![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas&logoColor=00ff88)
-![NumPy](https://img.shields.io/badge/NumPy-000?style=for-the-badge&logo=numpy&logoColor=00ff88)
-
-### 🖥️ Frontend
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=00ff88)
-![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=00ff88)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=00ff88)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=00ff88)
-![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux&logoColor=00ff88)
-![React Native](https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react&logoColor=00ff88)
-
-### ⚙️ Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=spring-boot&logoColor=00ff88)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=00ff88)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=00ff88)
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=00ff88)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=00ff88)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=00ff88)
-![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=00ff88)
-
-</div>
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rezsirine&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff88&icon_color=00cc66&text_color=aaffcc&ring_color=00ff88" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezsirine&layout=compact&hide_border=true&bg_color=000000&title_color=00ff88&text_color=aaffcc" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=rezsirine&theme=matrix&hide_border=true&background=000000&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=00cc66&dates=aaffcc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sirine%20Rezgui-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff&labelColor=161b22)](https://www.linkedin.com/in/sirine-rezgui-917461273/)
+<!-- TODO: add your email, e.g. [![Email](https://img.shields.io/badge/Email-you%40example.com-0d1117?style=flat-square&logo=gmail&logoColor=58a6ff&labelColor=161b22)](mailto:you@example.com) -->
+<!-- TODO: add your portfolio URL if you have one -->
 
 </div>
 
 ---
 
+## About me
+
+I am a final-year **Software Engineering** student with a **Master's degree in Advanced Intelligent Systems**. My work sits at the intersection of **full-stack engineering** and **AI-powered applications**: I build web and mobile products end to end, and I apply LLMs, retrieval-augmented generation and multi-agent designs to real problems.
+
+- Building **explainable, agent-based AI systems** (clinical decision support with RAG and XAI)
+- Studying **human–AI collaboration** in software engineering through data analysis
+- Comfortable across the stack: **React / Next.js / Angular** on the front, **Node.js / Spring Boot / FastAPI** on the back
+- Currently looking for **internship and software engineering opportunities**, including AI-related roles
+
 ---
 
-## 🌐 Connect
+## Tech stack
+
+| Area | Technologies |
+| :-- | :-- |
+| **Languages** | TypeScript · JavaScript (ES6+) · Python · SQL · PHP · HTML5 · CSS3 |
+| **Frontend** | React · Redux · Next.js · Angular · React Native · Flutter · Bootstrap |
+| **Backend & APIs** | Node.js · Express 5 · Spring Boot · ASP.NET Core · FastAPI · REST · Microservices · WebSockets |
+| **Databases & ORM/ODM** | PostgreSQL · MySQL · MongoDB · Firebase · Sequelize · Mongoose · Prisma |
+| **AI & Intelligent Systems** | Machine Learning · NLP · LLMs · RAG · Generative AI · scikit-learn |
+| **DevOps & Security** | Docker (multi-stage builds) · CI/CD · GitHub Actions · JWT · 2FA · CSRF protection |
+| **Tools** | Git · GitHub · Postman · OpenAPI 3.0 / Swagger · Jira |
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff88)](https://linkedin.com/in/sirine-rezgui)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff88)](https://github.com/rezsirine)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff88)](mailto:sirine.rezgui585@gmail.com)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178c6&labelColor=161b22)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776ab&labelColor=161b22)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61dafb&labelColor=161b22)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=ffffff&labelColor=161b22)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=5fa04e&labelColor=161b22)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0d1117?style=flat-square&logo=springboot&logoColor=6db33f&labelColor=161b22)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688&labelColor=161b22)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169e1&labelColor=161b22)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47a248&labelColor=161b22)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ed&labelColor=161b22)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0d1117?style=flat-square&logo=githubactions&logoColor=2088ff&labelColor=161b22)
 
 </div>
 
 ---
 
+## Featured projects
+
+### AI & intelligent systems
+
+#### [CDSS — Explainable Generative Multi-Agent Clinical Decision Support](https://github.com/rezsirine/CDSS)
+
+An agentic system that proposes diagnostic hypotheses from free-text symptoms, with verifiable explanations and a confidence score.
+
+- **Multi-agent pipeline:** symptom extraction, hypothesis generation, clinical validation, explanation, and confidence scoring, coordinated by an asynchronous orchestrator
+- **Generation:** BioGPT-Large combined with RAG over PubMed
+- **Explainability:** SHAP and counterfactual explanations, plus uncertainty quantification for calibrated confidence
+- **Interface:** Streamlit app and a Python API, with an evaluation module (accuracy, F1, calibration)
+- **Datasets referenced:** MedQA, PubMedQA, Symptom2Disease
+
+`Python` `LLM` `RAG` `Multi-agent` `XAI` `Streamlit`
+
+#### [AIDev Analysis — Human–AI Collaboration in Code Review](https://github.com/rezsirine/AIDEV)
+
+A data-analysis project studying how human developers and AI agents collaborate in GitHub pull-request review, built on the public [AIDev dataset](https://huggingface.co/datasets/hao-li/AIDev).
+
+- **Reproducible pipeline:** data loading, metric computation, statistical analysis, and visualization as separate scripts
+- **Outputs:** a final analysis dataset, figures, and statistical reports
+- Academic project, École Nationale des Sciences de l'Informatique (2025/2026)
+
+`Python` `Data analysis` `Statistics` `Visualization`
+
+### Full-stack & applications
+
+#### [E-learningApp](https://github.com/rezsirine/E-learningApp)
+
+A JavaScript e-learning application organized as a separate `client` and `server`.
+<!-- TODO: add 2–3 key features and the exact stack (e.g. React, Node.js/Express, database) after checking the code. -->
+
+`JavaScript` `Client / Server`
+
+#### [HRChatbot](https://github.com/rezsirine/HRChatbot)
+
+A Python web application (`app.py` with templates and static assets) built around an HR chatbot.
+<!-- TODO: describe what it answers, how it works (rules, ML, LLM/RAG?) and the stack. -->
+
+`Python` `Web app`
+
+### Team collaborations
+
+Contributions to team repositories: [TuneWaves](https://github.com/rezsirine/TuneWaves) (CSS) and [zara-project](https://github.com/rezsirine/zara-project) (JavaScript).
+<!-- TODO: add one line per project describing your own role. -->
+
+---
+
+## Focus areas
+
+- **Agentic AI and LLM applications:** RAG pipelines, multi-agent orchestration, grounding answers in trusted sources
+- **Explainable AI:** making model outputs inspectable and calibrated, especially in high-stakes domains
+- **Full-stack delivery:** typed APIs, authenticated backends (JWT, 2FA, CSRF protection), containerized deployment
+- **Empirical software engineering:** measuring how AI tools change the way developers work
+
+---
+
+## Let's connect
+
+I am open to **internships and software engineering roles**, including AI and full-stack positions.
+
+- LinkedIn: [sirine-rezgui-917461273](https://www.linkedin.com/in/sirine-rezgui-917461273/)
+<!-- TODO: add email and portfolio links if you want them shown. -->
+
+<!--
+OPTIONAL — GitHub statistics
+Enable only once your profile has enough public activity for the numbers to be meaningful,
+and test the image URLs in a private preview first. Example (replace with a service you trust):
+
+<img src="https://github-readme-stats.vercel.app/api?username=rezsirine&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
+-->
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003320,50:001a0d,100:000000&height=100&section=footer" width="100%"/>
-
-`> systems thinking. code shipping. always learning._`
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:1f6feb,100:0d1117&section=footer" alt="" width="100%"/>
 </div>
