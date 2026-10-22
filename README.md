@@ -1,11 +1,12 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=7C3AED&background=0D1117&lines=Hi%2C+I'm+Sirine+%F0%9F%91%8B;Full+Stack+Developer;Frontend+Developer;UI%2FUX+Enthusiast;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=7C3AED&background=0D1117&lines=Hi%2C+I'm+Sirine+%F0%9F%91%8B;Software+Engineer;AI+Enthusiast;Frontend+Developer;Problem+Solver" alt="Typing SVG" />
 
-  <h3>💻 Developer • Creative Thinker • Problem Solver</h3>
+  <h3>💻 Software Engineer • AI Enthusiast • Creative Developer</h3>
 
   <p>
     <img src="https://img.shields.io/badge/Location-Tunis%2C%20Tunisia-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-sirine.rezgui%40ensi-uma.tn-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     <img src="https://img.shields.io/badge/Phone-%2B216%2055%20194%20119-34A853?style=for-the-badge&logo=whatsapp&logoColor=white" />
     <a href="https://www.linkedin.com/in/sirine-rezgui" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -18,15 +19,29 @@
 
 ## 👋 About Me
 
-I’m a passionate developer with a strong interest in building clean, modern, and user-friendly digital experiences.  
-I enjoy transforming ideas into useful products, learning new technologies, and improving my skills through real-world development.
+I’m a passionate Software Engineer with a strong interest in building efficient, modern, and user-centered digital solutions.  
+I enjoy developing real-world applications, improving user experiences, and exploring the power of artificial intelligence to create smarter products.
 
 I’m especially interested in:
+- Software engineering
 - Front-end development
-- UI/UX design
-- Modern web technologies
-- Problem solving and project building
-- Creating elegant and functional interfaces
+- AI-driven solutions
+- UI/UX and product thinking
+- Problem solving and building meaningful projects
+
+---
+
+## 🤖 AI & Technology Passion
+
+I’m highly enthusiastic about Artificial Intelligence and its impact on software development and everyday life.  
+I enjoy learning about:
+- Machine Learning
+- AI-powered applications
+- Intelligent user experiences
+- Automation and data-driven decision making
+- The future of human-AI collaboration
+
+I believe AI is not only a technical field, but also a way to build smarter, faster, and more impactful digital experiences.
 
 ---
 
@@ -65,13 +80,13 @@ I’m especially interested in:
 ## 🚀 Featured Projects
 
 ### RecycleApp-Admin
-A project focused on admin-side application management and dashboard-oriented interfaces.
+A project focused on admin-side application management and dashboard-focused interfaces.
 
 - JavaScript
 - HTML / CSS
 - UI structure
-- Web app development
-- Practical project learning
+- Web application development
+- Practical software engineering experience
 
 [Repository](https://github.com/Thesis-Project-Avengers/RecycleApp-Admin)
 
@@ -82,8 +97,8 @@ A project focused on admin-side application management and dashboard-oriented in
 - Advanced JavaScript
 - React ecosystem
 - UI/UX best practices
+- AI concepts and practical applications
 - Clean code and scalable front-end architecture
-- Modern app design principles
 
 ---
 
@@ -116,5 +131,5 @@ Let’s connect and build something meaningful together.
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rezsirine&style=flat-square&color=7C3AED" alt="Profile Views" />
-  <p><i>Building ideas into useful digital experiences.</i></p>
+  <p><i>Building ideas into useful, smart, and human-centered experiences.</i></p>
 </div>
