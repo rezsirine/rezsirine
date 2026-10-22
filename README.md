@@ -6,7 +6,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/Location-Tunis%2C%20Tunisia-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" />
-    <img src="https://img.shields.io/badge/Email-sirine.rezgui%40ensi-uma.tn-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Phone-%2B216%2055%20194%20119-34A853?style=for-the-badge&logo=whatsapp&logoColor=white" />
     <a href="https://www.linkedin.com/in/sirine-rezgui" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
