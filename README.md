@@ -10,7 +10,7 @@
 📱 +216 55 194 119  
 🌐 Portfolio : bientôt disponible  
 💼 GitHub : https://github.com/rezsirine  
-🔗 LinkedIn : à ajouter
+🔗 LinkedIn : www.linkedin.com/in/sirine-rezgui
 
 </div>
 
