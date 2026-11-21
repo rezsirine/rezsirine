@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=7C3AED&background=0D1117&lines=Hi%2C+I'm+Sirine+%F0%9F%91%8B;Software+Engineer;AI+Ent[...]
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&height=100&lines=Hi%2C%20I%27m%20Sirine%20%F0%9F%91%8B;Software%20Engineer;AI%20Enthusiast" alt="Hi, I'm Sirine — Software Engineer — AI Enthusiast" />
 
   <h3>💻 Software Engineer • AI Enthusiast • Creative Developer</h3>
 
